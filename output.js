@@ -1,0 +1,2 @@
+export const output1 = '!!%mirroir%%attribute-width="10pouces"%%attribute-height="10pouces"%%attribute-color="black"%%attribute-material="wood"%!!';
+export const output2 = '!!%table%%attribute-width="48pouces"%%attribute-length="48pouces"%%attribute-color="blue"%%attribute-materials="wood&stone"%%attribute-feet-count="4"%!!';
